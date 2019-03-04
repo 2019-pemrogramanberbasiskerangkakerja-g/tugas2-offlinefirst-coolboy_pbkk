@@ -1,0 +1,4 @@
+1. Clone The Repo
+2. Run server.js in terminal (node server.js)
+3a. Open using localhost:8080 (server based)
+3b. Open index.html using path (offline based)
